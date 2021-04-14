@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustRenameIT", "JustRenameIT.csproj", "{7A2605E5-AC0B-4C4B-A1AF-588552B87C06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2605E5-AC0B-4C4B-A1AF-588552B87C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2605E5-AC0B-4C4B-A1AF-588552B87C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2605E5-AC0B-4C4B-A1AF-588552B87C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2605E5-AC0B-4C4B-A1AF-588552B87C06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0A6E7B0-E6C2-4056-8EFB-11F43DB67A0C}
+	EndGlobalSection
+EndGlobal

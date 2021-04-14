@@ -1,0 +1,16 @@
+
+src/.vs/JustRenameIT/v16/.suo
+*.exe
+src/bin/Debug/JustRenameIT.exe.config
+src/bin/Debug/JustRenameIT.pdb
+src/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+src/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+src/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+src/obj/Debug/JustRenameIT.csproj.CoreCompileInputs.cache
+src/obj/Debug/JustRenameIT.csproj.FileListAbsolute.txt
+src/obj/Debug/JustRenameIT.csproj.GenerateResource.cache
+src/obj/Debug/JustRenameIT.csprojAssemblyReference.cache
+src/obj/Debug/JustRenameIT.frmAbout.resources
+src/obj/Debug/JustRenameIT.frmMain.resources
+src/obj/Debug/JustRenameIT.pdb
+src/obj/Debug/JustRenameIT.Properties.Resources.resources
