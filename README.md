@@ -11,3 +11,5 @@ Output:
 [prefix]+[zero padded iteration (n+1)] + [new filename] + [suffix] + [zero padded iteration (n+1)].[extension]
 
 Empty/Unchecked options will be ignored
+
+![screenshot](/screenshots/just-rename-it.png?raw=true "Screenshot")
